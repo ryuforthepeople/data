@@ -15,5 +15,8 @@ export type { DataAdapter } from './adapters/adapter.js';
 // Supabase adapter
 export { SupabaseAdapter } from './adapters/supabase.js';
 
+// In-memory adapter
+export { InMemoryAdapter } from './adapters/memory.js';
+
 // Services
 export { DataService } from './services/data.js';
