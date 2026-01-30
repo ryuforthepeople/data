@@ -1,5 +1,5 @@
 {
-  "name": "@for-the-people/data",
+  "name": "@for-the-people-initiative/data",
   "scripts": {
     "build": "turbo build",
     "clean": "turbo clean",

@@ -1,5 +1,5 @@
 {
-  "name": "@for-the-people/data-api",
+  "name": "@for-the-people-initiative/data-api",
   "version": "0.1.0",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -18,7 +18,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@for-the-people/data-core": "workspace:*",
+    "@for-the-people-initiative/data-core": "workspace:*",
     "hono": "^4.0.0"
   },
   "devDependencies": {
